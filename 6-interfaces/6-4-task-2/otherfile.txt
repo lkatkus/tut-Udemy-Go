@@ -1,0 +1,1 @@
+Yes, this is data from another file!
